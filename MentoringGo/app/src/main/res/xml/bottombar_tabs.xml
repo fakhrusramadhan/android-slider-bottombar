@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        activeColor="#55C34D"
+        icon="@drawable/ic_home"
+        id="@+id/tab_home"/>
+    <tab
+        activeColor="#55C34D"
+        icon="@drawable/ic_broadcast"
+        id="@+id/tab_broadcast"/>
+    <tab
+        activeColor="#55C34D"
+        icon="@drawable/ic_chat"
+        id="@+id/tab_chat"/>
+    <tab
+        activeColor="#55C34D"
+        icon="@drawable/ic_presence"
+        id="@+id/tab_presence" />
+
+    <tab
+        activeColor="#55C34D"
+        icon="@drawable/ic_event"
+        id="@+id/tab_event"/>
+
+</tabs>

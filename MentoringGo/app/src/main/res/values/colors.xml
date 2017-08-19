@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#55C34D</color>
+    <color name="colorPrimaryDark">#3da135</color>
+    <color name="colorAccent">#55C34D</color>
+
+    <!--<color name="colorPrimary">#292929</color>-->
+    <!--<color name="colorPrimaryDark">#292929</color>-->
+    <!--<color name="colorAccent">#55C34D</color>-->
+
+    <color name="hijau">#55C34D</color>
+    <color name="hijauTua">#3da135</color>
+
+    <color name="putih">#FFFFFF</color>
+    <color name="abuabu">#6b6b6b</color>
+</resources>
